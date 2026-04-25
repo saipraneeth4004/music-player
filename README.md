@@ -84,5 +84,3 @@ The project is organized into a clean directory structure:
 - `GET /api/music/album` - Get all albums
 - `GET /api/music/album/:id` - Get album details
 
----
-Developed with ❤️ by saipraneeth
